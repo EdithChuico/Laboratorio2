@@ -1,0 +1,9 @@
+             Factura N 0001
+
+Cliente: Edith Chuico
+Cedula: 2350370967
+-----------------------------------------------
+Cantidad|  Detalle   | Precio final 
+1       | Helados    | $1.0
+
+-----------------------------------------------
